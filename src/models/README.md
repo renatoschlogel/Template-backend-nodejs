@@ -1,0 +1,1 @@
+Os Models se repletem as tabelas no banco, tambem pode ser chamado de entidade;

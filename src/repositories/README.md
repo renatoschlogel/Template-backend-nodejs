@@ -1,0 +1,1 @@
+O Repository é a caada de comunicaçao do model com sua tabela no banco de dados. Tambem pode ser chamado de EAO;
