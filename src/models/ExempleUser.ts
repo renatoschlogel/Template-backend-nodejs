@@ -8,9 +8,8 @@ import {
 
 @Entity('user')
 class ExempleUser {
-
   @PrimaryGeneratedColumn()
-  id: number
+  id: number;
 
   @Column()
   name: string;
@@ -23,7 +22,7 @@ class ExempleUser {
 
   @CreateDateColumn()
   created_at: Date;
- 
+
   @UpdateDateColumn()
   updated_at: Date;
 }
