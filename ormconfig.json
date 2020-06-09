@@ -1,17 +1,14 @@
 {
-  "type": "postgres",
-  "host": "localhost",
-  "port": 5432,
-  "username": "usuario",
-  "password": "senha",
-  "database": "nomebanco",
+  "name": "default",
+  "type": "sqlite",
+  "database": "./src/database/db.sqlite",
   "entities": [
     "./src/models/*.ts"
   ],
   "migrations": [
     "./src/database/migrations/*.ts"
   ],
-  "cli":{
+  "cli": {
     "migrationsDir": "./src/database/migrations"
   }
 }
