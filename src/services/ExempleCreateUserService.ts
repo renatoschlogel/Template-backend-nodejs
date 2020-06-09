@@ -30,4 +30,4 @@ class ExempleCreateUserService {
   }
 }
 
-export default CreateUserService;
+export default ExempleCreateUserService;

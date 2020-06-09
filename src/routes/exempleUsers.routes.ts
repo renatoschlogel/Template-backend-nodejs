@@ -1,6 +1,5 @@
-import { Router } from "express";
+import { Router } from 'express';
 import ExempleCreateUserService from '../services/ExempleCreateUserService';
-
 
 const exempleUsersRouter = Router();
 
