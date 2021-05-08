@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^4.2.0",
-    "typeorm": "^0.2.24",
+    "typeorm": "^0.2.25",
     "uuidv4": "^6.0.8"
   },
   "devDependencies": {
